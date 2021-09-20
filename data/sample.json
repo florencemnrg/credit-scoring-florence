@@ -1,0 +1,13 @@
+{
+        "cb_person_cred_hist_length": 4,
+        "cb_person_default_on_file": 0,
+        "loan_amnt": 35000,
+        "loan_grade": 6,
+        "loan_int_rate": 10.37,
+        "loan_intent": "VENTURE",
+        "loan_percent_income": 0.41,
+        "person_age": 22,
+        "person_emp_length": 6.0,
+        "person_home_ownership": "RENT",
+        "person_income": 85000
+}
