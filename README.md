@@ -3,7 +3,7 @@ Predict whether the client will default or not after their loan application.
 
 ## API Endpoint
 - **POST** /predict
-- Example: https://local-host/predict-api
+- Example: https://local-host/predict
 
 ### Headers:
 - **Content-Type**: application/json
